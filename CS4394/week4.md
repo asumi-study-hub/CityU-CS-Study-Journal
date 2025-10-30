@@ -4,7 +4,7 @@
 2. [Biba Other Policies](#biba-other-policies)
 3. [Lipner Model](#lipner-model)
 4. [Clark-Wilson Model](#clark-wilson-model)
-5. [Chinese Wall Polciy](#chinese-wall-policy)
+5. [Chinese Wall Policy](#chinese-wall-policy)
 6. [Role-based Access Control](#role-based-access-control)
 7. [Storing the Access Control Matrix](#storing-the-access-control-matrix)
 8. [Clinical Information Systems Security Policy](#clinical-information-systems-security-policy)
